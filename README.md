@@ -13,25 +13,3 @@
 Развитие выбранного проекта с документацией и презентациями.
 
 ---
-
-## 📖 Структура проекта
-
-```
-.
-├── README.md (вы здесь)
-├── week1/ - Идеи и концепции
-│   ├── readme.md - Навигация по идеям
-│   ├── idea01-ai-learning.md
-│   ├── idea02-smart-bins.md
-│   ├── idea03-document-checker.md
-│   ├── idea04-bin-finder.md
-│   ├── idea06-neuro-grob.md
-│   ├── idea07-zakaz-musor.md
-│   ├── idea08-roomie-swipe.md
-│   ├── idea09-auto-zip.md
-│   └── idea10-twin-mind.md
-└── week2/ - Материалы второй недели
-    ├── readme.md - Навигация
-    ├── Идеия№1.docx
-    └── Идея_№1.pptx
-```
