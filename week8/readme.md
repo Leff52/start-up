@@ -7,5 +7,4 @@
 ## 📋 Неделя 8: Финал MVP  15-16 практика 31 марта
 
 ### Материалы недели
-- [MVP Итоговые артефакты](Idea_Zal.md)
 - https://github.com/ChrolloLucii/SNKI
