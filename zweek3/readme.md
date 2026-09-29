@@ -9,3 +9,4 @@
 - [Политика обработки данных](https://leff52.github.io/landing/privacy/)
 - [Согласие на аналитику](https://leff52.github.io/landing/analytics-consent/)
 - [О файлах Cookies](https://leff52.github.io/landing/cookies/)
+- [Отчет метрики за неделю](MetrikaNed.pdf)
